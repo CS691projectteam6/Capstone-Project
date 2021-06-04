@@ -1,7 +1,7 @@
 # Capstone-Project
-Optimization of Warehouse Process Management
+# Optimization of Warehouse Process Management
 Optimization objective of warehouse processes and operations is to maximize warehouse efficiency and productivity, balancing human and technical resources.
-The warehouse design process is usually analyzed and evaluated by:
+## The warehouse design process is usually analyzed and evaluated by:
 
 • Optimal warehouse layout analysis and preparation of the future under the SKU flows, storage and performance criteria 
 • Warehouse management system design (requirements for an information system, defining automation and mechanization level) 
